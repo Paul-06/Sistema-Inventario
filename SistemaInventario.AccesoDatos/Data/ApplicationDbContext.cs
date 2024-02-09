@@ -12,12 +12,13 @@ namespace SistemaInventario.AccesoDatos.Data
         // Entidades
         public DbSet<Bodega> Bodegas { get; set; }
         public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Marca> Marcas { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
-            // Aplicar todas las configuraciones de las entidades que están
-            // definidas en el ensamblado proporcionado
+            // Busca e aplica automáticamente todas las configuraciones de entidades definidas
+            // en el mismo ensamblado(donde se encuentra esta clase).
             builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }
     }

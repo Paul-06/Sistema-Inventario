@@ -17,14 +17,18 @@ namespace SistemaInventario.AccesoDatos.Repositorio
         public IBodegaRepositorio Bodega { get; private set; }
         // Agregamos las nuevas intefaces
         public ICategoriaRepositorio Categoria { get; private set; }
+        public IMarcaRepositorio Marca { get; private set; }
 
         // Constructor
         public UnidadTrabajo(ApplicationDbContext context)
         {
             _context = context;
             // Inicializamos los repositorios con sus respectivas implementaciones
+            // Las implementaciones necesitan de _context para poder realizar
+            // sus operaciones
             Bodega = new BodegaRepositorio(_context);
             Categoria = new CategoriaRepositorio(_context);
+            Marca = new MarcaRepositorio(_context);
         }
 
         public void Dispose()
