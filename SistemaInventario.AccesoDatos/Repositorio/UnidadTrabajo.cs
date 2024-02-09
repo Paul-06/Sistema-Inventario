@@ -12,13 +12,19 @@ namespace SistemaInventario.AccesoDatos.Repositorio
     {
         // Atributo
         private readonly ApplicationDbContext _context;
+
+        // Propiedades
         public IBodegaRepositorio Bodega { get; private set; }
+        // Agregamos las nuevas intefaces
+        public ICategoriaRepositorio Categoria { get; private set; }
 
         // Constructor
         public UnidadTrabajo(ApplicationDbContext context)
         {
             _context = context;
+            // Inicializamos los repositorios con sus respectivas implementaciones
             Bodega = new BodegaRepositorio(_context);
+            Categoria = new CategoriaRepositorio(_context);
         }
 
         public void Dispose()
