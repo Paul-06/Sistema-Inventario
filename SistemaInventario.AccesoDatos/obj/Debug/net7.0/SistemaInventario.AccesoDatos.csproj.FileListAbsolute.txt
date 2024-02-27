@@ -11,8 +11,8 @@ D:\Programming\CSharp\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\
 D:\Programming\CSharp\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.AssemblyInfo.cs
 D:\Programming\CSharp\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.csproj.CoreCompileInputs.cache
 D:\Programming\CSharp\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.sourcelink.json
-D:\Programming\CSharp\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.csproj.CopyComplete
 D:\Programming\CSharp\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.dll
 D:\Programming\CSharp\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\refint\SistemaInventario.AccesoDatos.dll
 D:\Programming\CSharp\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaInventario.AccesoDatos.pdb
 D:\Programming\CSharp\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\ref\SistemaInventario.AccesoDatos.dll
+D:\Programming\CSharp\SistemaInventario\SistemaInventario.AccesoDatos\obj\Debug\net7.0\SistemaI.AC5EC1CF.Up2Date

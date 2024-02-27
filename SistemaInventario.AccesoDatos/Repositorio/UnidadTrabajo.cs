@@ -18,6 +18,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio
         // Agregamos las nuevas intefaces
         public ICategoriaRepositorio Categoria { get; private set; }
         public IMarcaRepositorio Marca { get; private set; }
+        public IProductoRepositorio Producto { get; private set; }
 
         // Constructor
         public UnidadTrabajo(ApplicationDbContext context)
@@ -29,6 +30,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio
             Bodega = new BodegaRepositorio(_context);
             Categoria = new CategoriaRepositorio(_context);
             Marca = new MarcaRepositorio(_context);
+            Producto = new ProductoRepositorio(_context);
         }
 
         public void Dispose()

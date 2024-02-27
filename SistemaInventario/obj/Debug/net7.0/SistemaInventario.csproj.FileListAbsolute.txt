@@ -78,7 +78,6 @@ D:\Programming\CSharp\SistemaInventario\SistemaInventario\obj\Debug\net7.0\stati
 D:\Programming\CSharp\SistemaInventario\SistemaInventario\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Programming\CSharp\SistemaInventario\SistemaInventario\obj\Debug\net7.0\scopedcss\bundle\SistemaInventario.styles.css
 D:\Programming\CSharp\SistemaInventario\SistemaInventario\obj\Debug\net7.0\scopedcss\projectbundle\SistemaInventario.bundle.scp.css
-D:\Programming\CSharp\SistemaInventario\SistemaInventario\obj\Debug\net7.0\SistemaInventario.csproj.CopyComplete
 D:\Programming\CSharp\SistemaInventario\SistemaInventario\obj\Debug\net7.0\SistemaInventario.dll
 D:\Programming\CSharp\SistemaInventario\SistemaInventario\obj\Debug\net7.0\refint\SistemaInventario.dll
 D:\Programming\CSharp\SistemaInventario\SistemaInventario\obj\Debug\net7.0\SistemaInventario.pdb
@@ -566,3 +565,6 @@ D:\Programming\CSharp\SistemaInventario\SistemaInventario\bin\Debug\net7.0\ru\Mi
 D:\Programming\CSharp\SistemaInventario\SistemaInventario\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Programming\CSharp\SistemaInventario\SistemaInventario\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Programming\CSharp\SistemaInventario\SistemaInventario\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\CSharp\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Programming\CSharp\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Programming\CSharp\SistemaInventario\SistemaInventario\obj\Debug\net7.0\SistemaI.D3F5EE3A.Up2Date

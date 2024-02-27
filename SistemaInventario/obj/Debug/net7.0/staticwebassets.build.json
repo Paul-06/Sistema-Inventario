@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "72i9glVPeftca0N7N+AGR4+Dq1T0Ts0qIbD+IdZtebw=",
+  "Hash": "E9FU1olWgQLyrl8LRFYFv+j8U3QdrvFUlvrZtpGcMTc=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1233,6 +1233,25 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\3aaa3920-4aeb-4067-a4cd-b3f0395dfea5.jpg",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "imagenes/producto/3aaa3920-4aeb-4067-a4cd-b3f0395dfea5.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\3aaa3920-4aeb-4067-a4cd-b3f0395dfea5.jpg"
+    },
+    {
       "Identity": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
       "SourceId": "SistemaInventario",
       "SourceType": "Discovered",
@@ -1288,6 +1307,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\marca.js"
+    },
+    {
+      "Identity": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\producto.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/producto.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\producto.js"
     },
     {
       "Identity": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",

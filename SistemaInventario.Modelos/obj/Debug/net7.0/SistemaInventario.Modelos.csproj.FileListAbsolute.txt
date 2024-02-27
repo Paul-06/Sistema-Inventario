@@ -9,8 +9,8 @@ D:\Programming\CSharp\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7
 D:\Programming\CSharp\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfo.cs
 D:\Programming\CSharp\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
 D:\Programming\CSharp\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.sourcelink.json
-D:\Programming\CSharp\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CopyComplete
 D:\Programming\CSharp\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.dll
 D:\Programming\CSharp\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
 D:\Programming\CSharp\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
 D:\Programming\CSharp\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\ref\SistemaInventario.Modelos.dll
+D:\Programming\CSharp\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaI.5E10B74F.Up2Date
