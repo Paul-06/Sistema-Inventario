@@ -1,0 +1,13 @@
+D:\Programming\CSharp\SistemaInventario\SistemaInventario.Utilidades\bin\Release\net7.0\SistemaInventario.Utilidades.deps.json
+D:\Programming\CSharp\SistemaInventario\SistemaInventario.Utilidades\bin\Release\net7.0\SistemaInventario.Utilidades.dll
+D:\Programming\CSharp\SistemaInventario\SistemaInventario.Utilidades\bin\Release\net7.0\SistemaInventario.Utilidades.pdb
+D:\Programming\CSharp\SistemaInventario\SistemaInventario.Utilidades\obj\Release\net7.0\SistemaInventario.Utilidades.csproj.AssemblyReference.cache
+D:\Programming\CSharp\SistemaInventario\SistemaInventario.Utilidades\obj\Release\net7.0\SistemaInventario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CSharp\SistemaInventario\SistemaInventario.Utilidades\obj\Release\net7.0\SistemaInventario.Utilidades.AssemblyInfoInputs.cache
+D:\Programming\CSharp\SistemaInventario\SistemaInventario.Utilidades\obj\Release\net7.0\SistemaInventario.Utilidades.AssemblyInfo.cs
+D:\Programming\CSharp\SistemaInventario\SistemaInventario.Utilidades\obj\Release\net7.0\SistemaInventario.Utilidades.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\SistemaInventario\SistemaInventario.Utilidades\obj\Release\net7.0\SistemaInventario.Utilidades.sourcelink.json
+D:\Programming\CSharp\SistemaInventario\SistemaInventario.Utilidades\obj\Release\net7.0\SistemaInventario.Utilidades.dll
+D:\Programming\CSharp\SistemaInventario\SistemaInventario.Utilidades\obj\Release\net7.0\refint\SistemaInventario.Utilidades.dll
+D:\Programming\CSharp\SistemaInventario\SistemaInventario.Utilidades\obj\Release\net7.0\SistemaInventario.Utilidades.pdb
+D:\Programming\CSharp\SistemaInventario\SistemaInventario.Utilidades\obj\Release\net7.0\ref\SistemaInventario.Utilidades.dll

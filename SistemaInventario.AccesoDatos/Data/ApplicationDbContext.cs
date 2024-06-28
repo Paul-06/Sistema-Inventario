@@ -18,7 +18,7 @@ namespace SistemaInventario.AccesoDatos.Data
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
-            // Busca e aplica automáticamente todas las configuraciones de entidades definidas
+            // Busca y aplica automáticamente todas las configuraciones de entidades definidas
             // en el mismo ensamblado(donde se encuentra esta clase).
             builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }

@@ -13,8 +13,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\icono.ico",
+      "PackagePath": "staticwebassets\\imagenes\\icono.ico"
+    },
+    {
+      "Id": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\icono.png",
+      "PackagePath": "staticwebassets\\imagenes\\icono.png"
+    },
+    {
       "Id": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\3aaa3920-4aeb-4067-a4cd-b3f0395dfea5.jpg",
       "PackagePath": "staticwebassets\\imagenes\\producto\\3aaa3920-4aeb-4067-a4cd-b3f0395dfea5.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\9435297c-b994-47bb-a258-c40ea44d03d6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\9435297c-b994-47bb-a258-c40ea44d03d6.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\b08700cb-5949-4005-8fea-3a9fc36329b6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\b08700cb-5949-4005-8fea-3a9fc36329b6.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\cb023514-c970-47b9-8f63-10fbf7a1933e.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\cb023514-c970-47b9-8f63-10fbf7a1933e.jpeg"
+    },
+    {
+      "Id": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\de8a27e9-7318-4043-a135-172d4539bf89.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\de8a27e9-7318-4043-a135-172d4539bf89.jpeg"
     },
     {
       "Id": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",

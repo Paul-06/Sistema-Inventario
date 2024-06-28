@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Programming\\CSharp\\SistemaInventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{008E0FC9-44A0-457F-9EE2-EE41F7434B52}|SistemaInventario\\SistemaInventario.csproj|d:\\programming\\csharp\\sistemainventario\\sistemainventario\\areas\\admin\\views\\producto\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{008E0FC9-44A0-457F-9EE2-EE41F7434B52}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\areas\\admin\\views\\producto\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{008E0FC9-44A0-457F-9EE2-EE41F7434B52}|SistemaInventario\\SistemaInventario.csproj|d:\\programming\\csharp\\sistemainventario\\sistemainventario\\areas\\inventario\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{008E0FC9-44A0-457F-9EE2-EE41F7434B52}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\areas\\inventario\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{008E0FC9-44A0-457F-9EE2-EE41F7434B52}|SistemaInventario\\SistemaInventario.csproj|d:\\programming\\csharp\\sistemainventario\\sistemainventario\\areas\\admin\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{008E0FC9-44A0-457F-9EE2-EE41F7434B52}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\areas\\admin\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{008E0FC9-44A0-457F-9EE2-EE41F7434B52}|SistemaInventario\\SistemaInventario.csproj|d:\\programming\\csharp\\sistemainventario\\sistemainventario\\areas\\inventario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008E0FC9-44A0-457F-9EE2-EE41F7434B52}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\areas\\inventario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C847D678-9B2A-4CCD-8995-98588B2EC9EF}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|d:\\programming\\csharp\\sistemainventario\\sistemainventario.accesodatos\\repositorio\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C847D678-9B2A-4CCD-8995-98588B2EC9EF}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\repositorio\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{008E0FC9-44A0-457F-9EE2-EE41F7434B52}|SistemaInventario\\SistemaInventario.csproj|d:\\programming\\csharp\\sistemainventario\\sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008E0FC9-44A0-457F-9EE2-EE41F7434B52}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC968A4D-C08E-4895-8D8A-4CD5FD3F9778}|SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj|d:\\programming\\csharp\\sistemainventario\\sistemainventario.modelos\\viewmodels\\productovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC968A4D-C08E-4895-8D8A-4CD5FD3F9778}|SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj|solutionrelative:sistemainventario.modelos\\viewmodels\\productovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{008E0FC9-44A0-457F-9EE2-EE41F7434B52}|SistemaInventario\\SistemaInventario.csproj|d:\\programming\\csharp\\sistemainventario\\sistemainventario\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{008E0FC9-44A0-457F-9EE2-EE41F7434B52}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC968A4D-C08E-4895-8D8A-4CD5FD3F9778}|SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj|d:\\programming\\csharp\\sistemainventario\\sistemainventario.modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC968A4D-C08E-4895-8D8A-4CD5FD3F9778}|SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj|solutionrelative:sistemainventario.modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{008E0FC9-44A0-457F-9EE2-EE41F7434B52}|SistemaInventario\\SistemaInventario.csproj|d:\\programming\\csharp\\sistemainventario\\sistemainventario\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{008E0FC9-44A0-457F-9EE2-EE41F7434B52}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,66 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\Areas\\Admin\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Areas\\Admin\\Controllers\\ProductoController.cs",
-              "ToolTip": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\Areas\\Admin\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "SistemaInventario\\Areas\\Admin\\Controllers\\ProductoController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwMIAAABiAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\Areas\\Inventario\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Areas\\Inventario\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\Areas\\Inventario\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SistemaInventario\\Areas\\Inventario\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAwwBQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T12:58:45.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario.Modelos\\Producto.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.Modelos\\Producto.cs",
-              "ToolTip": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario.Modelos\\Producto.cs",
-              "RelativeToolTip": "SistemaInventario.Modelos\\Producto.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAwwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T21:20:48.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Upsert.cshtml",
-              "DocumentMoniker": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\Areas\\Admin\\Views\\Producto\\Upsert.cshtml",
-              "RelativeDocumentMoniker": "SistemaInventario\\Areas\\Admin\\Views\\Producto\\Upsert.cshtml",
-              "ToolTip": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\Areas\\Admin\\Views\\Producto\\Upsert.cshtml",
-              "RelativeToolTip": "SistemaInventario\\Areas\\Admin\\Views\\Producto\\Upsert.cshtml",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAwwFoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-20T16:12:33.999Z",
+              "WhenOpened": "2024-06-28T18:40:46.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductoRepositorio.cs",
-              "DocumentMoniker": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\ProductoRepositorio.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Repositorio\\ProductoRepositorio.cs",
-              "ToolTip": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario.AccesoDatos\\Repositorio\\ProductoRepositorio.cs",
-              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Repositorio\\ProductoRepositorio.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAqwEYAAAAoAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Program.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\Program.cs",
+              "RelativeToolTip": "SistemaInventario\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAByAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T16:02:36.39Z",
+              "WhenOpened": "2024-06-28T18:39:18.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SistemaInventario\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SistemaInventario\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-28T18:32:00.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductoVM.cs",
-              "DocumentMoniker": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario.Modelos\\ViewModels\\ProductoVM.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.Modelos\\ViewModels\\ProductoVM.cs",
-              "ToolTip": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario.Modelos\\ViewModels\\ProductoVM.cs",
-              "RelativeToolTip": "SistemaInventario.Modelos\\ViewModels\\ProductoVM.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAhwA8AAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T15:15:47.033Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventario\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaInventario\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T18:25:30.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\Areas\\Inventario\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventario\\Areas\\Inventario\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Programming\\CSharp\\SistemaInventario\\SistemaInventario\\Areas\\Inventario\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemaInventario\\Areas\\Inventario\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T18:24:06.82Z",
               "EditorCaption": ""
             }
           ]

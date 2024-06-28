@@ -17,7 +17,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation(); // Agregamos el RazorRuntimeCompilation (paquete agregado mediante NuGet
 
 // Servicio IUnidadTrabajo
-builder.Services.AddScoped<IUnidadTrabajo, UnidadTrabajo>(); // Se agrega la interfaz y su implementación
+builder.Services.AddScoped<IUnidadTrabajo, UnidadTrabajo>(); // Se agrega la interfaz y su implementaciï¿½n
 
 var app = builder.Build();
 
@@ -42,7 +42,7 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{area=Inventario}/{controller=Home}/{action=Index}/{id?}"); // Editamos la ruta (agregamos nuestra área)
+    pattern: "{area=Inventario}/{controller=Home}/{action=Index}/{id?}"); // Editamos la ruta (agregamos nuestra area)
 app.MapRazorPages();
 
 app.Run();
